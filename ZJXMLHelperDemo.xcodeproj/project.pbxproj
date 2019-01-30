@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF6A0DAA22013A14003F8C2B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF6A0DA922013A14003F8C2B /* Default-568h@2x.png */; };
 		DFA6F11C21FFF5D90086B9AC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA6F11B21FFF5D90086B9AC /* AppDelegate.m */; };
 		DFA6F11F21FFF5D90086B9AC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA6F11E21FFF5D90086B9AC /* ViewController.m */; };
 		DFA6F12221FFF5D90086B9AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA6F12021FFF5D90086B9AC /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DF6A0DA922013A14003F8C2B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		DFA6F11721FFF5D90086B9AC /* ZJXMLHelperDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJXMLHelperDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFA6F11A21FFF5D90086B9AC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DFA6F11B21FFF5D90086B9AC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 		DFA6F10E21FFF5D90086B9AC = {
 			isa = PBXGroup;
 			children = (
+				DF6A0DA922013A14003F8C2B /* Default-568h@2x.png */,
 				DFA6F11921FFF5D90086B9AC /* ZJXMLHelperDemo */,
 				DFA6F13521FFF5DB0086B9AC /* ZJXMLHelperDemoTests */,
 				DFA6F14021FFF5DB0086B9AC /* ZJXMLHelperDemoUITests */,
@@ -280,6 +283,7 @@
 				DFA6F12A21FFF5DB0086B9AC /* LaunchScreen.storyboard in Resources */,
 				DFA6F12721FFF5DB0086B9AC /* Assets.xcassets in Resources */,
 				DFA6F12221FFF5D90086B9AC /* Main.storyboard in Resources */,
+				DF6A0DAA22013A14003F8C2B /* Default-568h@2x.png in Resources */,
 				DFA6F15921FFFE860086B9AC /* Test.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
